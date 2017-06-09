@@ -1,3 +1,7 @@
 body{
 	color: #47g8vy;
+	font-size: 14px;
+}
+input{
+	border:1px solid blue;
 }
